@@ -1,0 +1,13 @@
+text = 'Python PrograMMing'
+print("\nUPPER CASE:")
+print(text.upper())
+print("\nLOWER CASE:")
+print(text.lower())
+print("\nTITLE:")
+print(text.title())
+print("\nSWAP CASE:")
+print(text.swapcase())
+print("\nTITLE:")
+print(text.capitalize())
+print("ORIGINAL STRING:")
+print(text)
